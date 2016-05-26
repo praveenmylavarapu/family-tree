@@ -15,6 +15,6 @@ The family tree data structure is implemented using all functonalities in main p
 * Find relationship b/w two persons
 * Search
 * Destroy
-* Display
+* Display (beta)
 
-From the family tree data structure one can create any number of family trees and merge them also!
+Using family tree data type one can create any number of family trees and merge them also!
